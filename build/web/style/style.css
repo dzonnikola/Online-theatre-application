@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+body{
+    background-image: url('../img/theatre.jpg');
+    heigth:100%;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.form-group{
+    background-color:#e2e2e2;
+    width: 650px;
+    margin: auto;
+    border-radius:10px;
+    padding: 10px;
+}
+            
+h1, h2, h3, h4{
+    color:white;
+    font-size:40px;
+}
+
+
+.col-md-4{
+    background-color:red;
+    padding:20px;
+    border-radius: 20px;
+}
+
+#col-1{
+    background-color: darkgray;
+}
+#col-2{
+    background-color: burlywood;
+}
+#col-3{
+    background-color: dimgrey;
+}
+#col-4{
+    background-color: darkslategrey;
+}
+#col-5{
+    background-color: darksalmon;
+}
+#col-1:hover{
+    background-color:gray;
+    transition:0.5s;
+}
+#col-2:hover{
+    background-color: darkkhaki;
+}
+#col-3:hover{
+    background-color: darkseagreen;
+}
+#col-1 a, #col-2 a, #col-3 a, #col-4 a, #col-5 a{
+    font-size: 16pt;
+    color: white;
+}
+

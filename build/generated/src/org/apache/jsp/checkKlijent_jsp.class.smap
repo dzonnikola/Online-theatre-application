@@ -1,0 +1,16 @@
+SMAP
+checkKlijent_jsp.java
+JSP
+*S JSP
+*F
++ 0 checkKlijent.jsp
+checkKlijent.jsp
+*L
+5,11:45
+17,28:58
+44,2:86
+46:88,3
+47,2:91
+48,6:93
+53,3:99
+*E
